@@ -40,4 +40,4 @@ print( "Shifting WHY by 13 gives: \n" + lassoWord( "WHY", 13 ) )
 print( "Shifting WHY by 13 gives: \n" + lassoWord( "oskza", -18 ) )
 print( "Shifting WHY by 13 gives: \n" + lassoWord( "ohupo", -1 ) ) 
 print( "Shifting WHY by 13 gives: \n" + lassoWord( "ED", 25 ) )
-print(lassoLetter('p', -2))
+
